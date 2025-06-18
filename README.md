@@ -1,4 +1,10 @@
 # TEJAS – AI-Powered Employee Assistance Chatbot for GAIL
+ 
+## 📽️ Demo Preview
+
+> Click the image below to watch the full demo on YouTube.
+
+[![Screenshot 2025-06-18 at 4 00 10 PM](https://github.com/user-attachments/assets/e26e31d5-f464-41c3-a059-b63632ac830e)](https://www.youtube.com/watch?v=PxhodRU9kQ8)
 
 [![Watch Demo](https://img.shields.io/badge/Watch-Demo-red?logo=youtube)](https://www.youtube.com/watch?v=PxhodRU9kQ8)
 
